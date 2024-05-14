@@ -40,7 +40,8 @@ if __name__=="__main__":
 ```
 ## OUTPUT
 
-![alt text](image.png)
+![image](https://github.com/srinivas-aids/2a_Stop_and_Wait_Protocol/assets/93427183/edc154b7-9d18-4a66-aae6-28a45915a7fd)
+
 
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed.
